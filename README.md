@@ -32,7 +32,7 @@ I love building things at the intersection of **AI**, **visual computing**, and 
 A full-stack image-based grocery search tool.  
 Fine-tuned a MobileNetV3 model and integrated EasyOCR to extract product data from grocery images.  
 Built with **FastAPI + PostgreSQL + React.js + SwiftUI**.  
-→ [View Repo](https://groceryapp-website.onrender.com/) | [iOS Demo Coming Soon]
+→ [View Repo](https://groceryapp-website.onrender.com/) | [iOS Demo](https://drive.google.com/file/d/1ThKRE7pBXVwkVrnv8XigoxLiNiJuPj6Q/view?usp=sharing)
 
 #### 💬 Roleplay ChatBot (Hugging Face Demo)
 Custom chatbot powered by **TinyLlama + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
@@ -57,6 +57,6 @@ Great for physics education and real-time force visualization.
 
 - Portfolio: [yukieos.github.io/wanting-you](https://yukieos.github.io/wanting-you/)
 - Email: christina.astar@gmail.com
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/wanting-you-1a092a2b5/)
+- LinkedIn: [linkedin.com/in/wantingyou](https://www.linkedin.com/in/wanting-you-1a092a2b5/)
 
 Feel free to contact me if you have any questions!
