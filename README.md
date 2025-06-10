@@ -30,12 +30,12 @@ I love building things at the intersection of **AI**, **visual computing**, and 
 
 #### 🛒 Grocery Price Comparison App
 A full-stack image-based grocery search tool.  
-Fine-tuned a MobileNetV3 model and integrated EasyOCR to extract product data from grocery images.  
+Fine-tuned a **MobileNetV3** model and integrated **EasyOCR** to extract product data from grocery images.  
 Built with **FastAPI + PostgreSQL + React.js + SwiftUI**.  
 → [View Repo](https://groceryapp-website.onrender.com/) | [iOS Demo](https://drive.google.com/file/d/1ThKRE7pBXVwkVrnv8XigoxLiNiJuPj6Q/view?usp=sharing)
 
 #### 💬 Roleplay ChatBot (Hugging Face Demo)
-Custom chatbot powered by **TinyLlama + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
+Custom chatbot powered by **Google Gemma model + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
 Deployed via **Gradio Spaces**, featuring artistic UI, user ratings, and feedback-based personalization.  
 → [Live Demo](https://huggingface.co/spaces/yukieos/RoleplayDemo)
 
