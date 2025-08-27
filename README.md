@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Wanting You (Christina)
 
-🎓 Sophomore @ Barnard College, Columbia University  
+🎓 Junior @ Columbia University  
 📍 Currently based in NYC | CS Major | Passionate about AI + Full-Stack Development
 
 ---
 
-### 💡 About Me
+### About Me
 
 I love building things at the intersection of **AI**, **visual computing**, and **real-world usability**. Whether it's fine-tuning language models, visualizing electric fields in 3D, or deploying grocery recognition systems, I'm most excited when tech becomes *useful* and *usable*.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ I love building things at the intersection of **AI**, **visual computing**, and 
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 #### 🛒 Grocery Price Comparison App
 A full-stack image-based grocery search tool.  
@@ -46,14 +46,7 @@ Great for physics education and real-time force visualization.
 
 ---
 
-### 🧠 Currently Learning
-- Transformer architecture + fine-tuning techniques
-- iOS development (Swift + SwiftUI)
-- WebGL shaders + procedural animation
-
----
-
-### 🔗 Let's Connect!
+### Let's Connect!
 
 - Portfolio: [yukieos.github.io/wanting-you](https://yukieos.github.io/wanting-you/)
 - Email: christina.astar@gmail.com
