@@ -43,7 +43,7 @@ Built with **FastAPI + PostgreSQL + React.js + SwiftUI**.
 → [Web app](https://groceryapp-website.onrender.com/) | [iOS Demo](https://drive.google.com/file/d/1ThKRE7pBXVwkVrnv8XigoxLiNiJuPj6Q/view?usp=sharing)
 
 #### Roleplay ChatBot (Hugging Face Demo)
-Custom chatbot powered by **Google Gemma model + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
+Custom chatbot powered by **Gemini + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
 Deployed via **Gradio Spaces**, featuring artistic UI, user ratings, and feedback-based personalization.  
 → [Live Demo](https://huggingface.co/spaces/yukieos/RoleplayDemo)
 
