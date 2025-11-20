@@ -30,7 +30,9 @@ I love building things at the intersection of **AI**, **visual computing**, and 
 
 #### FunRadar
 An AI search engine that will match friends into different activities based on budgets, personal preferences, and locations.
-Built with **Ruby + TypeScriptI**
+
+Built with **Ruby + TypeScript**.
+
 → [Web app](https://funradar-b8f29a7d90f1.herokuapp.com/)
 
 #### Grocery Price Comparison App
