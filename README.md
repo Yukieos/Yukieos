@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Wanting You (Christina)
 
  Junior @ Columbia University
+ 
  Currently based in NYC | CS Major | Passionate about AI + Full-Stack Development
 
 ---
