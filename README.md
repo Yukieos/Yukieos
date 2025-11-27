@@ -12,7 +12,6 @@ I love building things at the intersection of **AI**, **visual computing**, and 
 
 
 - I am currently working at **Greenbit AI** as AI software engineer, and **Columbia Build Lab (Hangry)** as a full stack engiener. 
-- I am also an Undergraduate Research Assistant at **Columbia Engineering's CRIS Lab and DAPLab building AI agents and reinforcement learning related training**.
 
 ---
 
