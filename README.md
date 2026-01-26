@@ -1,15 +1,12 @@
-# 👋 Hi, I'm Wanting You (Christina)
+# Hi, I'm Wanting You (Christina)
 
  Junior @ **Columbia University**
  
- Currently based in NYC | CS Major | Passionate about AI + Full-Stack Development
+ Currently based in NYC | CS Major | AI + Backend +Full Stack Development
 
 ---
 
 ### About Me
-
-I love building things at the intersection of **AI**, **visual computing**, and **real-world usability**. Whether it's fine-tuning language models, visualizing electric fields in 3D, or deploying grocery recognition systems, I'm most excited when tech becomes *useful* and *usable*.
-
 
 - I am currently working at **Greenbit AI** as AI software engineer, and **Columbia Build Lab (Hangry)** as a full stack engiener. 
 
