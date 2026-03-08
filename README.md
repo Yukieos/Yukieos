@@ -1,4 +1,4 @@
-# Hi, I'm Wanting You (Christina)
+# Hi, I'm Christina You
 
  Junior @ **Columbia University**
  
