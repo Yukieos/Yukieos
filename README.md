@@ -38,6 +38,7 @@ Built with **Ruby + TypeScript**.
 A full-stack image-based grocery search tool.  
 Fine-tuned a **MobileNetV3** model and integrated **EasyOCR** to extract product data from grocery images.  
 Built with **FastAPI + PostgreSQL + React.js + SwiftUI**.  
+→ [Web app](https://groceryapp-website.vercel.app/)
 
 #### Roleplay ChatBot (Hugging Face Demo)
 Custom chatbot powered by **Gemini + LoRA fine-tuning**, supporting MBTI-based personas and memory.  
